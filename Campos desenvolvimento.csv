@@ -1,0 +1,116 @@
+BaciaSedimentar;Estado;Terra/Mar;Campo;Concessionário;Percentual
+Alagoas;Alagoas;Terra;Fazenda Guindaste;Petrosynergy¹;100
+Alagoas;Alagoas;Terra;Sebastião Ferreira2;Petrosynergy¹;100
+Amazonas;Amazonas;Terra;Azulão;Petrobras¹;100
+Amazonas;Amazonas;Terra;Japiim2;Petrobras¹;100
+Barreirinhas;Maranhão;Terra;Espigão3;Espigão1;100
+Barreirinhas;Maranhão;Terra;Oeste de Canoas3;Oeste de Canoas1;100
+Barreirinhas;Maranhão;Terra;São João3;Oeste de Canoas1;100
+Camamu;Bahia;Mar;Camarão;OP Energy¹;100
+Camamu;Bahia;Mar;Camarão Norte;Queiroz Galvão;45
+Camamu;Bahia;Mar;Camarão Norte;Petrobras¹;35
+Camamu;Bahia;Mar;Camarão Norte;Brasoil Manati;10
+Camamu;Bahia;Mar;Camarão Norte;Geopak Brasil;10
+Camamu;Bahia;Mar;Pinaúna;OP Energy¹;100
+Camamu;Bahia;Mar;Sardinha2;Petrobras¹;100
+Campos;Espírito Santo;Mar;Catuá2;Petrobras¹;100
+Campos;Espírito Santo;Mar;Caxaréu;Petrobras¹;100
+Campos;Espírito Santo;Mar;Mangangá2;Petrobras¹;100
+Campos;Rio de Janeiro;Mar;Maromba;Petrobras¹;70
+Campos;Rio de Janeiro;Mar;Maromba;Chevron Brasil;30
+Campos;Rio de Janeiro;Mar;Pitangola;Equinor Brasil1;60
+Campos;Rio de Janeiro;Mar;Pitangola;Sinochem Petróleo;40
+Campos;Rio de Janeiro;Mar;Tararuga Verde Sudoeste5;Petrobras¹;100
+Campos;Rio de Janeiro;Mar;Xerelete;Total E&P do Brasil1;41,18
+Campos;Rio de Janeiro;Mar;Xerelete;Petrobras;41,18
+Campos;Rio de Janeiro;Mar;Xerelete;BP Energy;17,64
+Campos;Rio de Janeiro;Mar;Xerelete Sul;Total E&P do Brasil1;50
+Campos;Rio de Janeiro;Mar;Xerelete Sul;Petrobras;50
+Espírito Santo;Espírito Santo;Terra;Bem-ti-vi;Vipetro¹;100
+Espírito Santo;Espírito Santo;Terra;Curruira2;Petrobras¹;100
+Espírito Santo;Espírito Santo;Terra;Garça Branca3;Petrol1;100
+Espírito Santo;Espírito Santo;Terra;Lagoa do Doutor3;Vipetro¹;100
+Espírito Santo;Espírito Santo;Terra;Rio Mariricu3;Ubuntu Engenharia1;100
+Paraná;Paraná;Terra;Barra Bonita3;Barra Bonita1;100
+Parnaíba;Maranhão;Terra;Gavião Branco Norte;Parnaíba Gás Natural¹;100
+Parnaíba;Maranhão;Terra;Gavião Preto;Parnaíba Gás Natural¹;100
+Parnaíba;Maranhão;Terra;Gavião Tesoura;Parnaíba Gás Natural¹;100
+Potiguar;Rio Grande do Norte;Terra;Acauã Leste2;Petrobras¹;100
+Potiguar;Rio Grande do Norte;Terra;Alto Alegre3;Perícia¹;100
+Potiguar;Rio Grande do Norte;Terra;Iraúna²;Imetame1 ;100
+Potiguar;Rio Grande do Norte;Terra;Periquito Norte;Phoenix1;100
+Potiguar;Rio Grande do Norte;Terra;Periquito Nordeste;Phoenix1 ;100
+Potiguar;Rio Grande do Norte;Terra;Porto do Mangue;Máxima 071;100
+Potiguar;Rio Grande do Norte;Terra;Riacho Azul;Petrobras¹;100
+Potiguar;Rio Grande do Norte;Terra;Urutau2;Ubuntu Engenharia1;100
+Potiguar;Rio Grande do Norte;Mar;Guajá2;Petrobras¹;100
+Potiguar;Rio Grande do Norte;Mar;Salema Branca2;Petrobras¹;100
+Potiguar;Rio Grande do Norte;Mar;Siri;Petrobras¹;100
+Recôncavo;Bahia;Terra;Araças Leste;Guindastes Brasil¹;100
+Recôncavo;Bahia;Terra;Bela Vista3;Imetame¹;100
+Recôncavo;Bahia;Terra;Caburé;Alvopetro¹;100
+Recôncavo;Bahia;Terra;Caburé Leste;Alvopetro¹;100
+Recôncavo;Bahia;Terra;Canário da Terra Sul;Petrobras¹;100
+Recôncavo;Bahia;Terra;Cardeal Amarelo;Imetame¹;69,35
+Recôncavo;Bahia;Terra;Cardeal Amarelo;Orteng Óleo e Gás;30,65
+Recôncavo;Bahia;Terra;Fazenda Sori2;Petrobras¹;100
+Recôncavo;Bahia;Terra;Guriatã Sul;Petrobras¹;100
+Recôncavo;Bahia;Terra;Itaparica3;Newo1;100
+Recôncavo;Bahia;Terra;Jacumirim3;Guindastes Brasil1;100
+Recôncavo;Bahia;Terra;Mãe-da-Lua;Alvopetro1;100
+Recôncavo;Bahia;Terra;Maritaca2;SHB1;50
+Recôncavo;Bahia;Terra;Maritaca2;Somoil do Brasil;50
+Recôncavo;Bahia;Terra;Paramirim do Vencimento3;Newo¹;100
+Recôncavo;Bahia;Terra;Riacho Sesmaria3;Engepet¹;100
+Recôncavo;Bahia;Terra;Tapiranga Norte;Petrobras¹;100
+Recôncavo;Bahia;Terra;Uirapuru Sudoeste;Petrosynergy¹;70
+Recôncavo;Bahia;Terra;Uirapuru Sudoeste;Silver Marlin;30
+Recôncavo;Bahia;Terra;Vale do Quirico3;Energizzi Energias1;100
+Santos;Rio de Janeiro;Mar;Berbigão;Petrobras1;65
+Santos;Rio de Janeiro;Mar;Berbigão;Shell Brasil;25
+Santos;Rio de Janeiro;Mar;Berbigão;Petrogal Brasil;10
+Santos;Rio de Janeiro;Mar;Itapu4;Petrobras¹;100
+Santos;Rio de Janeiro;Mar;Mero5;Petrobras1;40
+Santos;Rio de Janeiro;Mar;Mero5;Shell Brasil;20
+Santos;Rio de Janeiro;Mar;Mero5;Total E&P do Brasil;20
+Santos;Rio de Janeiro;Mar;Mero5;CNODC Brasil;10
+Santos;Rio de Janeiro;Mar;Mero5;CNOOC Petroleum;10
+Santos;Rio de Janeiro;Mar;Norte de Berbigão4;Petrobras¹;100
+Santos;Rio de Janeiro;Mar;Norte de Sururu4;Petrobras¹;100
+Santos;Rio de Janeiro;Mar;Oeste de Atapu;Petrobras1;65
+Santos;Rio de Janeiro;Mar;Oeste de Atapu;Shell Brasil;25
+Santos;Rio de Janeiro;Mar;Oeste de Atapu;Petrogal Brasil;10
+Santos;Rio de Janeiro;Mar;Oliva;Queiroz Galvão1;30
+Santos;Rio de Janeiro;Mar;Oliva;Dommo Energia;40
+Santos;Rio de Janeiro;Mar;Oliva;Barra Energia;30
+Santos;Rio de Janeiro;Mar;Sepia4;Petrobras¹;100
+Santos;Rio de Janeiro;Mar;Sepia Leste;Petrobras1;80
+Santos;Rio de Janeiro;Mar;Sepia Leste;Petrogal Brasil;20
+Santos;Rio de Janeiro;Mar;Sul de Berbigão4;Petrobras¹;100
+Santos;Rio de Janeiro;Mar;Sul de Lula4;Petrobras¹;100
+Santos;Rio de Janeiro;Mar;Sul de Sururu4;Petrobras¹;100
+Santos;Rio de Janeiro;Mar;Sururu;Petrobras1;65
+Santos;Rio de Janeiro;Mar;Sururu;Shell Brasil;25
+Santos;Rio de Janeiro;Mar;Sururu;Petrogal Brasil;10
+Santos;Rio de Janeiro;Mar;Tambuatá;Petrobras¹;100
+Santos;São Paulo;Mar;Goiá;Karoon1;100
+Santos;São Paulo;Mar;Goiá Sul;Karoon1;100
+Santos;São Paulo;Mar;Neon;Karoon1;100
+Santos;São Paulo;Mar;Neon Sul;Karoon1;100
+Santos;São Paulo;Mar;Nordeste de Sapinhoá5;Petrobras1;45
+Santos;São Paulo;Mar;Nordeste de Sapinhoá5;Shell Brasil;30
+Santos;São Paulo;Mar;Nordeste de Sapinhoá5;Repsol Sinopec;25
+Santos;São Paulo;Mar;Noroeste de Sapinhoá5;Petrobras1;45
+Santos;São Paulo;Mar;Noroeste de Sapinhoá5;Shell Brasil;30
+Santos;São Paulo;Mar;Noroeste de Sapinhoá5;Repsol Sinopec;25
+Santos;São Paulo;Mar;Sudoeste de Sapinhoá5;Petrobras1;45
+Santos;São Paulo;Mar;Sudoeste de Sapinhoá5;Shell Brasil;30
+Santos;São Paulo;Mar;Sudoeste de Sapinhoá5;Repsol Sinopec;25
+Santos;São Paulo;Mar;Sul de Sapinhoá4;Petrobras¹;100
+Sergipe;Sergipe;Mar;Piranema Sul;Petrobras¹;100
+Sergipe;Sergipe;Terra;Dó-Ré-Mi;Petrogal Brasil¹;50
+Sergipe;Sergipe;Terra;Dó-Ré-Mi;Petrobras;50
+Sergipe;Sergipe;Terra;Guará;Nord¹;100
+Solimões;Amazonas;Terra;Juruá;Petrobras¹;100
+Tucano Sul;Bahia;Terra;Iraí3;Petroborn¹;100
+Tucano Sul;Bahia;Terra;Lagoa Branca;Petrobras¹;100
